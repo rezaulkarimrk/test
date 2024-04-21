@@ -1,4 +1,4 @@
 This is test 1
 this is test 1 second line
 This is test 1 third line.
-logo alignment is center
+logo alignment is center solved.
